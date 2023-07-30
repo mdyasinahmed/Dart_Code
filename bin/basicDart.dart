@@ -15,6 +15,22 @@ void main(){
   print(str);
   var str2 = "Flutter is nothing but a framework of dart.";
   print(str2);
-  
 
+  // dart boolean
+  var isBD = true;
+  var notBD = false;
+  print(isBD);
+  print(notBD);
+
+  //dart list
+  var numbers = [81, 90, 95, 100];
+  print(numbers);
+
+  var cities = ['Sylhet', 'Comilla', 'Chittagong', 'Dhaka', 'Barisal'];
+  print(cities);
+
+  var collections = [10, 10.10, "flutter", true];
+  print(collections);
+
+  //
 }
