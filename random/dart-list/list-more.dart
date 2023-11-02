@@ -8,4 +8,10 @@ void main() {
   print(myList2);
   myList2.add(9);
   print(myList2);
+
+  // list insert
+  var myList3 = [1, 3, 5, 7, 9];
+  print(myList3);
+  myList3.addAll([15, 11]);
+
 }
